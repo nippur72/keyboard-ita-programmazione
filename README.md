@@ -13,7 +13,7 @@ Combinazioni aggiunte:
   - `Ctrl`+`8` e `Ctrl`+`9`
   - `Ctrl`+`[` e `Ctrl`+`]`
 
-- Backtick "`"
+- Backtick `
   - `AltGr`+`'` (AltGr + apice)
   - `AltGr`+`ù` 
 
@@ -23,11 +23,11 @@ Combinazioni aggiunte:
 
 # Installazione
 
-Scaricare il file [](setup.zip) scompattarlo ed eseguirlo. 
+Scaricare il file [setup.zip](setup.zip) scompattarlo ed eseguirlo. 
 
 Nella barra di stato dovrebbe apparire il la scritta `ITA` dalla quale è possibile scegliere il layout "Italiano - Programmazione".
 
 # Note 
 
-Il file eseguibile di setup è stato generato direttamente da "Microsoft Keyboard Layout Creator 1.4", partendo dal file [](italiano_programmazione_keyboard_layout.klc) che potete modificare a vostro piacimento.
+Il file eseguibile di setup è stato generato direttamente da "Microsoft Keyboard Layout Creator 1.4", partendo dal file [italiano_programmazione_keyboard_layout.klc](italiano_programmazione_keyboard_layout.klc) che potete modificare a vostro piacimento.
 
